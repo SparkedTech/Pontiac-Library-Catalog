@@ -1,0 +1,18 @@
+{
+  "name": "pontiac-library-catalog",
+  "version": "1.0.0",
+  "description": "a hypothetical library catalog for my local library in Pontiac MI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Joshua Jiles",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.3",
+    "sequelize": "^5.7.1",
+    "sequelize-cli": "^5.5.1",
+    "sqlite3": "^4.0.6"
+  }
+}
